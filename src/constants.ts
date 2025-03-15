@@ -27,9 +27,9 @@ export enum Rounding {
   ROUND_UP
 }
 
-export const FACTORY_ADDRESS = '0xa0038E355BbaC36E7D7A0B4dfc58A677d068Fc50' // need change
+export const FACTORY_ADDRESS = '0xeE3276B17f1beb318746c006c479FA64E03209Bd' // need change
 
-export const INIT_CODE_HASH = '0xa8ffe45272e3b3b952443a26648c3a374a4021bf797f49affac9193a2195079f' // need change
+export const INIT_CODE_HASH = '0x3965edfee8c3d196b59cb83e74aa89617d0ba2a91b7dabb1acf5564c26f92531' // need change
 
 export const MINIMUM_LIQUIDITY = JSBI.BigInt(1000)
 
