@@ -2,13 +2,13 @@
   "name": "@fenelabs/sdk",
   "license": "MIT",
   "version": "3.0.3",
-  "description": "🛠 An SDK for building applications on top of Feneswap.",
+  "description": "🛠 An SDK for building applications on top of TukarV2Swap.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/fenelabs/feneswap-sdk.git",
+  "repository": "https://github.com/maximo-scan/tukar-v2-sdk.git",
   "keywords": [
     "uniswap",
     "ethereum"

@@ -80,9 +80,6 @@ export const WETH = {
   ),
   [ChainId.GÖRLI]: new Token(ChainId.GÖRLI, '0xB4FBF271143F4FBf7B91A5ded31805e42b2208d6', 18, 'WETH', 'Wrapped Ether'),
   [ChainId.KOVAN]: new Token(ChainId.KOVAN, '0xd0A1E359811322d97991E03f863a0C30C2cF029C', 18, 'WETH', 'Wrapped Ether'),
-  [ChainId.SEPOLIA]: new Token(ChainId.SEPOLIA, '0xa75885e66f406e3f41c82c64607a5a50e251d757', 18, 'WETH', 'Wrapped Ether'),
   [ChainId.ETPCHAIN]: new Token(ChainId.ETPCHAIN, '0xEBb641F0bed3A8e27742A0677ef2C8d823ECeCDA', 18, 'WETP', 'Wrapped ETP'), // need change
-  [ChainId.FENE]: new Token(ChainId.FENE, '0x7b79995e5f793A07Bc00c21412e50Ecae098E7f9', 18, 'WFNE', 'Wrapped Fene'), // need change
   [ChainId.BSC]: new Token(ChainId.BSC, '0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c', 18, 'WBNB', 'Wrapped BSC'), // need change
-  [ChainId.BSCTESTNET]: new Token(ChainId.BSCTESTNET, '0x8585d7AAc7c4C26e04fDBbd4De162ea816d9fFc2', 18, 'WBNB', 'Wrapped BSC') // need change
 }
